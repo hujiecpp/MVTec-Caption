@@ -56,20 +56,20 @@ datasets/
 	  breakfast_box/
 	    ground_truth/
 	    ground_truth_merge_mask/
-		prompt/
-		test/
+ 	    prompt/
+            test/
 	    train/
 	  juice_bottle/
 	    ground_truth/
 	    ground_truth_merge_mask/
-		prompt/
-		test/
+ 	    prompt/
+            test/
 	    train/
 	  ...
 	  splicing_connectors/
 	    ground_truth/
 	    ground_truth_merge_mask/
-		prompt/
-		test/
+ 	    prompt/
+            test/
 	    train/
 ```
