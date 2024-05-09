@@ -73,3 +73,14 @@ datasets/
             test/
 	    train/
 ```
+
+## Citation
+
+```BibTeX
+@article{hu2024anomalyxfusion,
+  title={AnomalyXFusion: Multi-modal Anomaly Synthesis with Diffusion},
+  author={Hu, Jie and Huang, Yawen and Lu, Yilin and Xie, Guoyang and Jiang, Guannan and Zheng, Yefeng},
+  journal={arXiv preprint arXiv:2404.19444},
+  year={2024}
+}
+```
